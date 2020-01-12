@@ -1,0 +1,8 @@
+@startuml
+start
+:Einstecken (Batterie oder Netzstecker);
+:24 h warten;
+:Stecker/Batterie entfernen;
+:Gerät an Analysten geben;
+stop
+@enduml

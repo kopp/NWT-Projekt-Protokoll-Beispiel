@@ -1,0 +1,9 @@
+@startuml
+start
+:Gerät per USB anstecken;
+:Direkt Kommando Datenabruf geben;
+:Daten auslesen;
+:Daten auf dem Gerät löschen;
+:Daten analysieren;
+stop
+@enduml

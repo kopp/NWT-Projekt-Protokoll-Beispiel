@@ -1,0 +1,14 @@
+@startuml
+start
+while (Stron verfügbar)
+    :Messwerte nehmen;
+    if (genug Speicher vorhanden)
+      :Messwerte speichern;
+      :Warten/Schlafen;
+    else
+      :Arduino abschalten;
+      stop
+    endif
+endwhile
+stop
+@enduml

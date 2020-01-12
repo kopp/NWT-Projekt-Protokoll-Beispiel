@@ -1,0 +1,12 @@
+@startuml
+start
+:Einstecken (Batterie oder Netzstecker);
+while (Strom verfügbar)
+  :Miss Temperatur;
+  :Miss Luftfeuchte;
+  :Schreibe Daten in EEPROM;
+  :Warte (oder eventuell schlafe) den Rest bis 5 min;
+endwhile
+:Stecker/Batterie entfernen;
+stop
+@enduml

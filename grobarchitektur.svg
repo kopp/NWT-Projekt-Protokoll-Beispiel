@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="201.52139mm"
+   height="214.4711mm"
+   viewBox="0 0 201.52139 214.4711"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="grobarchitektur.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-291.23818"
+     inkscape:cy="253.08173"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1364"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-19.125822,-6.615106)">
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#00008b;fill-opacity:0.14218009;fill-rule:nonzero;stroke:#040000;stroke-width:1.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect840"
+       width="175.38094"
+       height="138.33928"
+       x="24.417488"
+       y="68.132256" />
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#040000;stroke-width:1.96499991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect815"
+       width="103.56547"
+       height="37.041668"
+       x="59.720242"
+       y="82.309525" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="78.619049"
+       y="97.428566"
+       id="text819"><tspan
+         sodipodi:role="line"
+         id="tspan817"
+         x="78.619049"
+         y="97.428566"
+         style="stroke-width:0.26458332px">Microcontroller/</tspan><tspan
+         sodipodi:role="line"
+         x="78.619049"
+         y="108.0119"
+         style="stroke-width:0.26458332px"
+         id="tspan821">-prozessor</tspan></text>
+    <ellipse
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#040000;stroke-width:1.96499991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path823"
+       cx="65.767853"
+       cy="164.70834"
+       rx="14.363094"
+       ry="15.119047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="31.75"
+       y="191.92261"
+       id="text827"><tspan
+         sodipodi:role="line"
+         id="tspan825"
+         x="31.75"
+         y="191.92261"
+         style="stroke-width:0.26458332px">Temperatursensor</tspan></text>
+    <ellipse
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#040000;stroke-width:1.96500003;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="path823-9"
+       cx="150.67894"
+       cy="164.76598"
+       rx="14.363095"
+       ry="15.119047" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="116.66109"
+       y="191.98024"
+       id="text827-2"><tspan
+         sodipodi:role="line"
+         id="tspan825-5"
+         x="116.66109"
+         y="191.98024"
+         style="stroke-width:0.26458332px">Feuchtigkeitssensor</tspan></text>
+    <rect
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#040000;stroke-width:1.96499991;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+       id="rect850"
+       width="40.821426"
+       height="34.773808"
+       x="20.108322"
+       y="12.45952" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="23.13213"
+       y="32.870243"
+       id="text854"><tspan
+         sodipodi:role="line"
+         id="tspan852"
+         x="23.13213"
+         y="32.870243"
+         style="stroke-width:0.26458332px">Batterie</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.86500001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 91.470237,30.148809 c 13.607143,27.214286 25.702383,-1.511904 25.702383,-1.511904 v 0"
+       id="path856"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="80.886894"
+       y="20.32143"
+       id="text860"><tspan
+         sodipodi:role="line"
+         id="tspan858"
+         x="80.886894"
+         y="20.32143"
+         style="stroke-width:0.26458332px">Stromanschluss</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 211.5343,40.304298 -5.51306,-3.375086 v 2.407619 h -28.17881 l 5.48672,-6.145142 c 0.46695,-0.396773 1.0779,-0.675109 1.70636,-0.690525 2.5424,0 4.05219,-8.83e-4 4.60794,-0.0018 0.3767,1.137757 1.38859,1.958988 2.59154,1.958988 1.52181,0 2.7568,-1.309107 2.7568,-2.922949 0,-1.614544 -1.23489,-2.923183 -2.7568,-2.923183 -1.20295,0 -2.21484,0.820763 -2.59154,1.957588 l -4.55396,-8.83e-4 c -1.23422,0 -2.52751,0.71786 -3.35068,1.559411 0.0225,-0.02499 0.0458,-0.05163 -9.7e-4,4.42e-4 -0.0174,0.02079 -5.82123,6.519136 -5.82123,6.519136 -0.46596,0.396191 -1.07658,0.672774 -1.7046,0.688662 h -3.18771 c -0.42254,-2.232423 -2.28215,-3.91436 -4.51286,-3.91436 -2.54328,0 -4.60485,2.185467 -4.60485,4.880772 0,2.696117 2.06157,4.881703 4.60485,4.881703 2.23114,0 4.09076,-1.68334 4.5133,-3.917627 h 3.13185 c 0.008,0 0.016,4.41e-4 0.0242,0 h 6.92711 c 0.62681,0.01696 1.23666,0.29387 1.70218,0.690526 0,0 5.80249,6.49788 5.82046,6.518907 0.0465,0.05222 0.0234,0.025 4.1e-4,4.4e-4 0.82316,0.841436 2.11699,1.558829 3.35145,1.558829 l 4.38868,-8.83e-4 v 1.95957 h 5.51448 v -5.84546 h -5.5145 v 1.957001 c 0,0 -1.15589,-0.0022 -4.44244,-0.0022 -0.62858,-0.01532 -1.24019,-0.29329 -1.70691,-0.690063 l -5.48795,-6.14632 h 21.28773 v 2.411477 z"
+       id="path1334"
+       style="stroke-width:0.11344215" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="157.99405"
+       y="12.761906"
+       id="text5177"><tspan
+         sodipodi:role="line"
+         id="tspan5175"
+         x="157.99405"
+         y="12.761906"
+         style="stroke-width:0.26458332px">Anschluss an PC</tspan><tspan
+         sodipodi:role="line"
+         x="157.99405"
+         y="23.345238"
+         style="stroke-width:0.26458332px"
+         id="tspan5179">zur Auswertung</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 37.797618,47.535713 C 34.773809,75.505952 60.47619,49.803571 81.642856,64.166667 102.80952,78.529761 95.249999,83.065476 95.249999,83.065476"
+       id="path5181"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 105.07738,43.000001 c 12.09524,13.607142 6.80357,38.553569 6.80357,38.553569"
+       id="path5183"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 171.02474,41.267065 C 141.36309,60.386904 142.11905,81.55357 142.11905,81.55357"
+       id="path5185"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 66.523808,148.83333 c -6.803567,-29.48213 31.75,-12.85119 34.773812,-18.89881 3.02381,-6.04762 3.02381,-11.33928 3.02381,-11.33928"
+       id="path5187"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.26499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 127.75595,118.59524 c 0,0 -9.82738,22.67857 5.29167,27.21428 15.11904,4.53572 15.11904,4.53572 15.11904,4.53572"
+       id="path5189"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46666622px;line-height:125%;font-family:'URW Palladio L';-inkscape-font-specification:'URW Palladio L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000098;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="81.869873"
+       y="220.07867"
+       id="text844"><tspan
+         sodipodi:role="line"
+         id="tspan842"
+         x="81.869873"
+         y="220.07867"
+         style="stroke-width:0.26458332px;fill:#000098;fill-opacity:1;">Box/Hülle</tspan></text>
+  </g>
+</svg>
