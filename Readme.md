@@ -5,7 +5,7 @@ Hier ist ein Beispiel, wie ein Protokoll für ein NWT-Projekt aussehen kann/soll
 Das Protokoll ist hier in
 [Textform](Protokoll.md)
 und hier
-[als HTML](Protokoll.html)
+[als HTML](https://htmlpreview.github.io/?https://github.com/kopp/NWT-Projekt-Protokoll-Beispiel/blob/master/Protokoll.html)
 zu finden.
 
 
